@@ -1,0 +1,20 @@
+{
+  "name": "about-me",
+  "description": "My resume page",
+  "main": "",
+  "keywords": [
+    "resume",
+    "lplana",
+    "java",
+    "developer"
+  ],
+  "authors": [
+    "Leonardo Lana"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
